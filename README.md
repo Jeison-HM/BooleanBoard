@@ -7,13 +7,14 @@
   <img alt="Verilog" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Verilog-black?style=for-the-badge&logo=verilog&logoColor=white&logoSize=auto"/>
   <img alt="Vivado" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Vivado-white?style=for-the-badge&logo=vivado&logoColor=white&logoSize=auto"/>
   <img alt="Xilinx" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Xilinx-b41e3c?style=for-the-badge&logo=xilinx&logoColor=white&logoSize=auto"/>
-  <img alt="MIT" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/License-MIT-ad0808?style=for-the-badge"/>
+  <img alt="MIT" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/License-MIT-blue?style=for-the-badge"/>
     <br />
 </p>
 
-![7-Segment Display Menu](https://github.com/user-attachments/assets/69d99929-987a-4a86-9bb0-7ccea29687d1)
-
 <!-- Description -->
+<p align="center">
+    <video loop src="https://github.com/user-attachments/assets/69d99929-987a-4a86-9bb0-7ccea29687d1"> 7-Segment Display Menu </video>
+</p>
 <p align="center">
     <b>Alphanumeric custom messages on 7-Segment Display Menu using Boolean Board</b><br>
     <i>with integrated <code>8 x 7-segment displays</code> and <code>4 button</code> menu.</i>
