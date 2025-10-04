@@ -11,9 +11,10 @@
     <br />
 </p>
 
+![7-Segment Display Menu](https://github.com/user-attachments/assets/69d99929-987a-4a86-9bb0-7ccea29687d1)
+
 <!-- Description -->
 <p align="center">
-    <video loop src="https://github.com/user-attachments/assets/69d99929-987a-4a86-9bb0-7ccea29687d1"> 7-Segment Display Menu </video> <br><br>
     <b>Alphanumeric custom messages on 7-Segment Display Menu using Boolean Board</b><br>
     <i>with integrated <code>8 x 7-segment displays</code> and <code>4 button</code> menu.</i>
 </p>
