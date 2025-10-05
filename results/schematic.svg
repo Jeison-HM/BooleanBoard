@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="0.78143335"
-     inkscape:cx="496.52347"
-     inkscape:cy="471.56933"
+     inkscape:zoom="1.1051136"
+     inkscape:cx="380.9563"
+     inkscape:cy="357.88175"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -2400,6 +2400,13 @@
      id="g1"
      inkscape:groupmode="layer"
      inkscape:label="1">
+    <rect
+       style="fill:#0d1117;fill-opacity:1"
+       id="rect1"
+       width="1056"
+       height="816"
+       x="0"
+       y="0" />
     <path
        id="path3"
        d="m 0,60 -7,7 H -21 V 53 h 14 z"
@@ -2416,12 +2423,15 @@
          style="font-variant:normal;font-weight:normal;font-size:12px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          x="0"
          y="0">btn[3:0]</tspan></text>
-    <path
-       id="path6"
-       d="m 0,80 -7,7 H -21 V 73 h 14 z"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.82240854,0,0,0.82240854,79.801097,42.39665)"
-       clip-path="url(#clipPath7)" />
+    <g
+       id="g2">
+      <path
+         id="path6"
+         d="m 0,80 -7,7 H -21 V 73 h 14 z"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.82240854,0,0,0.82240854,79.801097,42.39665)"
+         clip-path="url(#clipPath7)" />
+    </g>
     <text
        id="text7"
        xml:space="preserve"
