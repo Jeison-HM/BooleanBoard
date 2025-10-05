@@ -4,9 +4,9 @@
 
 <!-- GitHub Badges Section -->
 <p align="center">
-  <img alt="Verilog" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Verilog-black?style=for-the-badge&logo=verilog&logoColor=white&logoSize=auto"/>
-  <img alt="Vivado" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Vivado-white?style=for-the-badge&logo=vivado&logoColor=white&logoSize=auto"/>
-  <img alt="Xilinx" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Xilinx-b41e3c?style=for-the-badge&logo=xilinx&logoColor=white&logoSize=auto"/>
+  <img alt="Verilog" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Verilog-black?style=for-the-badge&logo=verilog&logoColor=white&logoSize=auto"/>
+  <img alt="Vivado" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Vivado-white?style=for-the-badge&logo=vivado&logoColor=white&logoSize=auto"/>
+  <img alt="Xilinx" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Xilinx-b41e3c?style=for-the-badge&logo=xilinx&logoColor=white&logoSize=auto"/>
   <img alt="MIT" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/License-MIT-blue?style=for-the-badge"/>
     <br />
 </p>
